@@ -1,7 +1,7 @@
 # 01. Admin 리팩토링: 버그, 렌더 성능, 번들, 구조
 
 > 대상: 관리자 웹 (Next.js 14, SWR, TanStack Table + react-virtual, Zustand)
-> 브랜치: `refactor/portfolio`, 커밋 12개. 원본 기준 104개 파일 변경, +5,803 / −8,147줄
+> 브랜치: `refactor/portfolio`, 커밋 20개(최종). 원본 기준 104개 파일 변경, +5,803 / −8,147줄
 
 ## 한 줄 요약
 
